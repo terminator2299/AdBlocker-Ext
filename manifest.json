@@ -1,7 +1,7 @@
 {
-    "name": "DevSage Adblocker",
+    "name": "Terminator Adblocker",
     "version": "1.0",
-    "description": "DevSage Adblocker Tutorial",
+    "description": "this is a first attemot to built adblocker",
     "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
     "background": {
         "scripts": ["background.js"]
